@@ -6,7 +6,7 @@ The project presents multiple-choice questions in the terminal, accepts user ans
 
 ## 🎥 Preview
 
-[▶️ Watch Quiz App in Python Preview](./Preview_video/Quize%20App%20in%20Python.mp4)
+[▶️ Watch Project Demo](./Preview/Quize%20App%20in%20Python.mp4)
 
 The preview demonstrates the quiz running in VS Code, displaying questions with four options, accepting user input, and showing whether the selected answer is correct or incorrect.
 
